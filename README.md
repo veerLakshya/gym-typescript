@@ -1,7 +1,7 @@
 A one-page frontend application designed to help users explore about a GYM. 
 
 <pre>
-**Technologies Used:**<br/>
+Technologies Used:<br/>
       React: For building the user interface.<br/>
       TypeScript: To ensure type safety and improve code maintainability.<br/>
       Vite: As a build tool that enhances development speed.<br/>
