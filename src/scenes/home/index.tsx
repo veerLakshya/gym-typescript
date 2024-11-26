@@ -1,12 +1,12 @@
-import useMediaQuery from "../../hooks/useMediaQuery"
-import { SelectedPage } from "../../shared/types"
-import ActionButton from "../../shared/ActionButton"
+import useMediaQuery from "../../hooks/useMediaQuery";
+import { SelectedPage } from "../../shared/types";
+import ActionButton from "../../shared/ActionButton";
 import AnchorLink from "react-anchor-link-smooth-scroll";
-import HomePageText from "../../assets/HomePageText.png"
-import HomePageGraphic from "../../assets/HomePageGraphic.png"
-import SponsorRedbull from "../../assets/SponsorRedbull.png"
-import SponsorForbes from "../../assets/SponsorForbes.png"
-import SponsorFortune from "../../assets/SponsorFortune.png"
+import HomePageText from "../../assets/HomePageText.png";
+import HomePageGraphic from "../../assets/HomePageGraphic.png";
+import SponsorRedbull from "../../assets/SponsorRedbull.png";
+import SponsorForbes from "../../assets/SponsorForbes.png";
+import SponsorFortune from "../../assets/SponsorFortune.png";
 import { motion } from "framer-motion";
 
 type Props = {
