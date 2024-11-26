@@ -1,4 +1,4 @@
-import Logo from '../../assets/logo.png'
+import Logo from '../../assets/logo.png';
 
 const Footer = () => {
   return (
@@ -25,4 +25,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default Footer;
